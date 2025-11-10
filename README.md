@@ -3,11 +3,6 @@
 ![stockpredictor ai logo](https://user-images.githubusercontent.com/53996451/224323224-3ec1cd20-747c-42ad-9fb1-ba6e0ecb358b.png)
 
 > The Stock-Predictor-V4 Project has undoubtedly reached its full potential, and at this stage, third-party pull requests represent the sole avenue for introducing new features and functionalities. Unfortunately, due to my limited expertise in prediction logic, I had to remove it entirely from the update cycle. Embracing the contributions of skilled developers through pull requests is now the most promising way to breathe fresh life into the project and ensure its continued growth and relevance.
-
----
-
-## Now On Colab! [![Open SPV4 In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lex-hue/Stock-Predictor-V4/blob/main/SPV4.ipynb)
-
 ---
 # Content Table
 

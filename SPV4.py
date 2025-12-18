@@ -8,11 +8,11 @@ def cpugpu():
     import tensorflow as tf
     # Check if GPU is available and print the list of GPUs
     gpus = tf.config.list_physical_devices('GPU')
-    if gpus:
-        for gpu in gpus:
-            print(f"Found GPU: {gpu}")
-    else:
-        print("No GPU devices found.")
+    # if gpus:
+    #     for gpu in gpus:
+    #         print(f"Found GPU: {gpu}")
+    # else:
+    #     print("No GPU devices found.")
     
     if gpus:
         try:
